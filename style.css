@@ -1,0 +1,16 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-size: 13pt;  
+  text-align: vertical;
+  width: 150px;
+  right: 150px;
+  margin-left: 150px;
+  margin-top: 50px;
+  background: url(../cadastrofemitech/img/feminist.jpg);
+  background-size: cover;
+}
+h1{
+  color:white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
